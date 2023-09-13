@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KJBB03
+- 👋 Hi, I’m Kevin but you can call me kevs and this is my username @KJBB03
 - 👀 I’m interested in Game Development and CyberSecurity
 - 🌱 I’m currently learning Game dev and CyberSecurity
 - 💞️ I’m looking to collaborate on ...
